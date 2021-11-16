@@ -36,4 +36,7 @@ Dataset
 Link：https://pan.baidu.com/s/1sqJpxvt1-ONqcuG7RLTq0A
 Password：vodp
 
+pre-model
+Link：https://pan.baidu.com/s/1UwDL8rzTVFYFDwOsU9TBlA 
+Password：u5pk 
 
