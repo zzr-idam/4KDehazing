@@ -32,9 +32,13 @@ CUDA 10.0
 Ubuntu 16.04
 
 
-Dataset
+Dataset (Daytime)
 Link：https://pan.baidu.com/s/1sqJpxvt1-ONqcuG7RLTq0A
 Password：vodp
+
+Nighttime with Haze 4K dataset
+Link： https://pan.baidu.com/s/1pxmsFOU-3ELNgR8KtvWW1g
+Password：5h6A
 
 pre-model
 Link：https://pan.baidu.com/s/1UwDL8rzTVFYFDwOsU9TBlA 
