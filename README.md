@@ -40,7 +40,25 @@ Nighttime with Haze 4K dataset
 Link： https://pan.baidu.com/s/1pxmsFOU-3ELNgR8KtvWW1g
 Password：5h6A
 
-pre-model
+Pre-model
 Link：https://pan.baidu.com/s/1UwDL8rzTVFYFDwOsU9TBlA 
 Password：u5pk 
+
+Cite:
+@inproceedings{DBLP:conf/cvpr/ZhengRCHWSJ21,
+  author    = {Zhuoran Zheng and
+               Wenqi Ren and
+               Xiaochun Cao and
+               Xiaobin Hu and
+               Tao Wang and
+               Fenglong Song and
+               Xiuyi Jia},
+  title     = {Ultra-High-Definition Image Dehazing via Multi-Guided Bilateral Learning},
+  booktitle = {{IEEE} Conference on Computer Vision and Pattern Recognition, {CVPR}
+               2021, virtual, June 19-25, 2021},
+  pages     = {16185--16194},
+  year      = {2021},
+}
+
+
 
