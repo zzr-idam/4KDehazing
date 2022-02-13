@@ -44,8 +44,13 @@ Pre-model
 Link：https://pan.baidu.com/s/1UwDL8rzTVFYFDwOsU9TBlA 
 Password：u5pk 
 
+4K real-world video with hazy
+Link：https://pan.baidu.com/s/1wqQKEPLnzTPqANAr-D5Mxw 
+Password：p83y 
+
 Cite:
 @inproceedings{DBLP:conf/cvpr/ZhengRCHWSJ21,
+
   author    = {Zhuoran Zheng and
                Wenqi Ren and
                Xiaochun Cao and
@@ -53,10 +58,14 @@ Cite:
                Tao Wang and
                Fenglong Song and
                Xiuyi Jia},
+               
   title     = {Ultra-High-Definition Image Dehazing via Multi-Guided Bilateral Learning},
+  
   booktitle = {{IEEE} Conference on Computer Vision and Pattern Recognition, {CVPR}
                2021, virtual, June 19-25, 2021},
+               
   pages     = {16185--16194},
+  
   year      = {2021},
 }
 
