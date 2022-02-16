@@ -48,25 +48,16 @@ Password：u5pk
 Link：https://pan.baidu.com/s/1wqQKEPLnzTPqANAr-D5Mxw 
 Password：p83y 
 
-Cite:
-@inproceedings{DBLP:conf/cvpr/ZhengRCHWSJ21,
+4K real-world images
+Link：https://pan.baidu.com/s/1u5Wq3aKBVxZhAkVdHsdMVQ 
+Password：776z 
 
-  author    = {Zhuoran Zheng and
-               Wenqi Ren and
-               Xiaochun Cao and
-               Xiaobin Hu and
-               Tao Wang and
-               Fenglong Song and
-               Xiuyi Jia},
-               
+
+Cite:
+{
   title     = {Ultra-High-Definition Image Dehazing via Multi-Guided Bilateral Learning},
-  
-  booktitle = {{IEEE} Conference on Computer Vision and Pattern Recognition, {CVPR}
-               2021, virtual, June 19-25, 2021},
-               
-  pages     = {16185--16194},
-  
-  year      = {2021},
+  booktitle = {CVPR},
+  year      = {2021}
 }
 
 
