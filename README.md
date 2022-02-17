@@ -65,7 +65,7 @@ Cite:
 
 
 # Other work
-<font color="Hotpink">Our team is moving towards under-screen cameras, and we hope you will support us more.<\font>
+<font color="Hotpink">Our team is moving towards under-screen cameras, and we hope you will support us more.</font>
 https://github.com/zzr-idam/under_camera
 
 
